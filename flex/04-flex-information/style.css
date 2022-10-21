@@ -23,7 +23,6 @@ img {
 }
 
 .image-with-text {
-  flex-direction: column-reverse;
   text-align: center;
   width: 200px;
 }
