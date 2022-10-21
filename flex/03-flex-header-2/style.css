@@ -20,15 +20,10 @@ body {
 }
 
 
-.left-nav {
+.left-nav, .right-nav {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-}
-
-.right-nav {
-  display: flex;
-  align-items: center;
   gap: 1rem;
 }
 
