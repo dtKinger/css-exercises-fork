@@ -27,7 +27,8 @@ main {
 }
 
 .sidebar {
-  min-width: calc(300px - 32px);
+  width: 300px;
+  flex-shrink: 0;
   background: royalblue;
   padding: 16px;
 }
