@@ -22,14 +22,12 @@ body {
 .left-nav {
   display: flex;
   align-items: center;
-  justify-content: flex-start;
   flex-wrap: wrap;
 }
 
 .right-nav {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
   gap: 1rem;
   margin-right: 1rem;
 }
